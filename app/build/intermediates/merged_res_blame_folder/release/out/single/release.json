@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.sy.publicapiviewer.app-merged_res-60:/layout_activity_main.xml.flat",
+        "source": "com.sy.publicapiviewer.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\layout_progress_item.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\progress_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\drawable_phone.jpg.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\drawable\\phone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\drawable_icon.jpg.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\drawable\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\layout_item_recycler_2.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\item_recycler_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\drawable_sy.jpg.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\drawable\\sy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\color_color.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\color\\color.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\drawable_icon_2.jpg.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\drawable\\icon_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\layout_item_recycler.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\item_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-pngs-55:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\layout_fragment_detail.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\layout_fragment_list.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-merged_res-60:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\xml\\data_extraction_rules.xml"
+    }
+]

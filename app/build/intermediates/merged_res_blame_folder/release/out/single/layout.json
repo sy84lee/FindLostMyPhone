@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-mergeReleaseResources-59:\\layout\\progress_item.xml",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\progress_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-mergeReleaseResources-59:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.sy.publicapiviewer.app-mergeReleaseResources-59:/layout/activity_main.xml",
+        "source": "com.sy.publicapiviewer.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-mergeReleaseResources-59:\\layout\\item_recycler_2.xml",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\item_recycler_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-mergeReleaseResources-59:\\layout\\fragment_detail.xml",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-mergeReleaseResources-59:\\layout\\item_recycler.xml",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\item_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-mergeReleaseResources-59:\\layout\\fragment_list.xml",
+        "source": "C:\\Users\\sy84l\\.gradle\\daemon\\7.5\\com.sy.publicapiviewer.app-main-61:\\layout\\fragment_list.xml"
+    }
+]
